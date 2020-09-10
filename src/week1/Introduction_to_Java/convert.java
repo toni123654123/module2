@@ -1,4 +1,4 @@
-package week1;
+package week1.Introduction_to_Java;
 import java.util.Scanner;
 import java.lang.String;
 public class convert {

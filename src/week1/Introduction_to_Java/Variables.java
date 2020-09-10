@@ -1,4 +1,4 @@
-package week1;
+package week1.Introduction_to_Java;
 
 import org.w3c.dom.ls.LSOutput;
 
