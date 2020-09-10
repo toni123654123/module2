@@ -13,7 +13,6 @@ public class BMI {
         height = scanner.nextDouble();
 
         bmi = weight / Math.pow(height, 2);
-//        System.out.println("Interpretation: " + bmi);
 
         if (bmi < 18) {
             System.out.printf("%-20.2f%s", bmi, "Underweight");
