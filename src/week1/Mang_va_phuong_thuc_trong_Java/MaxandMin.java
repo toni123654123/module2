@@ -14,6 +14,6 @@ public class MaxandMin {
             }
         }
         System.out.println("Giá trị lớn nhất của mảng là: "  +  max);
-        System.out.println("Giá trị nhỏ nhất của mảng là: "+min);
+        System.out.println("Giá trị nhỏ nhất của mảng là: "+ min);
     }
 }
