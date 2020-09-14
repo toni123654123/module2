@@ -7,8 +7,8 @@ public class DeleteArray {
         int[] arr = {1, 3, 5, 6, 1, 3, 5, 2, 9};
         Scanner scanner = new Scanner(System.in);
         System.out.println("Ban dau:");
-        for (int value : arr) {
-            System.out.print(value + ",");
+        for (int i = 0; i < arr.length; i++) {
+            System.out.print(arr[i] + ",");
         }
         System.out.println();
         System.out.print(" nhap so can xoa: ");
