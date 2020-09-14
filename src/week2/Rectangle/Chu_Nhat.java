@@ -1,4 +1,4 @@
-package week2;
+package week2.Rectangle;
 
 import java.util.Scanner;
 

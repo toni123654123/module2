@@ -1,4 +1,4 @@
-package week2;
+package week2.Rectangle;
 public class Lop_Chu_Nhat {
 
     double width, hegiht;
