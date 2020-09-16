@@ -17,14 +17,17 @@ public class Shape {
     }
 
     public void setColor(String color) {
+
         this.color = color;
     }
 
     public boolean isFilled() {
+
         return filled;
     }
 
     public void setFilled(boolean filled) {
+
         this.filled = filled;
     }
 
