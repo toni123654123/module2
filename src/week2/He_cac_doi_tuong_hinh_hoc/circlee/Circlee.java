@@ -1,6 +1,6 @@
 package week2.He_cac_doi_tuong_hinh_hoc.circlee;
 
-import week2.He_cac_doi_tuong_hinh_hoc.Shape.Shape;
+import week2.He_cac_doi_tuong_hinh_hoc.shape.Shape;
 
 public class Circlee extends Shape {
     private double radius = 1.0;

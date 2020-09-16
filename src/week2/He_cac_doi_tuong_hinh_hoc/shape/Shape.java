@@ -1,4 +1,4 @@
-package week2.He_cac_doi_tuong_hinh_hoc.Shape;
+package week2.He_cac_doi_tuong_hinh_hoc.shape;
 
 public class Shape {
     private String color = "red";
