@@ -5,7 +5,7 @@ import week2.He_cac_doi_tuong_hinh_hoc.shape.Shape;
 public class Rectangle extends Shape {
     private double width = 1.0;
     private double length = 1.0;
-    public Rectangle(){
+    public Rectangle(double side, String color, boolean filled){
     }
     public Rectangle(double width, double length){
         this.width = width;
@@ -16,6 +16,10 @@ public class Rectangle extends Shape {
         super(color, filled);
         this.width = width;
         this.length = length;
+    }
+
+    public Rectangle() {
+
     }
 
     public double getWidth() {
