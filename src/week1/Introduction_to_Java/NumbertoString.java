@@ -1,7 +1,7 @@
 package week1.Introduction_to_Java;
 import java.util.Scanner;
 import java.lang.String;
-public class convert {
+public class NumbertoString {
     public static void main(String[] args) {
         int num;
         String result= "";
