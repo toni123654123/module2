@@ -10,11 +10,12 @@ public class CountString {
             System.out.println(" Enter char ");
             str = scanner.nextLine();
             if (str.length() >= 2) {
-                System.out.println("Sorry, max string = 1");
+                System.out.println("Sorry, String is char.");
             }
         } while (str.length() >= 2);
         
         String string = "Dont worryyy";
+        System.out.println(string);
         int count = 0;
 
         for (int k = 0; k < string.length(); k++) {
